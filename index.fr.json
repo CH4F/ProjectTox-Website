@@ -7,7 +7,7 @@
     "lf_title": "Tox",
     
     "nv_home": "Accueil",
-    "nv_about": "A propos",
+    "nv_about": "À propos",
     "nv_features": "Fonctionnalités",
     "nv_contribute": "Contribuer",
     
@@ -17,7 +17,7 @@
     "sect1_download": "Télécharger",
     
     
-    "sect2_abouttox": "A propos de Tox",
+    "sect2_abouttox": "À propos de Tox",
     
     "sect2_aboutbody": "Tox est bâti avec l'idée que vous puissiez rester en contact avec les amis ou la famille sans risquer une atteinte à votre vie privée.\n Alors que d'autres grands noms de la messagerie vous font payer afin de débloquer des fonctionnalités, Tox reste gratuit et libre.\n Ainsi, vous pouvez faire ce que vous voulez avec Tox.",
     
@@ -58,6 +58,6 @@
     "sect6_jointheteam": "Joignez-vous à l'équipe",
     "sect6_joinongithub": "Aidez à bâtir Tox sur <a href=\"https://github.com/irungentoo/ProjectTox-Core\" class=\"text bold underline color theme\">GitHub</a>.",
     
-    "sect6_needhelp": "Besoin d'aide?",
+    "sect6_needhelp": "Besoin d'aide ?",
     "sect6_githubtoirc": "Lancez votre propre projet, et posez-nous des questions sur <span class=\"text normal\">GitHub</span>, ou dans notre <a href=\"ircs://irc.freenode.net/InsertProjectNameHere\" class=\"text bold underline color theme\">IRC</a>!"
 }
